@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a8c983-f186-4de3-a259-94cbf54a7721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/oophp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coba.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constructor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance-problem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object-type.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overriding.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setter-dan-getter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visibility.php" afterDir="false" />
-    </list>
+    <list default="true" id="96a8c983-f186-4de3-a259-94cbf54a7721" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +49,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/autoloading" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/autoloading" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\rekayasa-web\rekweb2020_183040004_oophp\namespace" />
+      <recent name="C:\xampp\htdocs\rekayasa-web\rekweb2020_183040004_oophp\namespace\App" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\rekayasa-web\rekweb2020_183040004_oophp" />
       <recent name="C:\xampp\htdocs\rekayasa-web\oophp" />
     </key>
   </component>
@@ -100,23 +88,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="167" key="#PHP" timestamp="1601523272424">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="667" y="167" key="#PHP/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601523272424" />
+    <state x="726" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601540024969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="726" y="326" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601540024969" />
     <state x="753" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1601530400566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="753" y="233" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601530400566" />
-    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1601531024295">
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1601539895350">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="739" y="279" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601531024295" />
-    <state x="769" y="247" key="NewPhpClassDialog" timestamp="1601523532346">
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601539895350" />
+    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1601539824527">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="769" y="247" key="NewPhpClassDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601523532346" />
+    <state x="739" y="279" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601539824527" />
+    <state x="769" y="247" key="NewPhpClassDialog" timestamp="1601538719530">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="247" key="NewPhpClassDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601538719530" />
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1601540033734">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601540033734" />
   </component>
 </project>
